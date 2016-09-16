@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 ***** This is kpokhar***********
+=======
+<<<<<<< HEAD
+********* This if kpokhar*********
+=======
+***** This is kpokhar***********
+>>>>>>> origin
+>>>>>>> 42cbf873aeaa47ddbf5b07e4e616d12429ac573e
